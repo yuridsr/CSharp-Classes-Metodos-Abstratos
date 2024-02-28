@@ -1,0 +1,15 @@
+C:\Users\User\Documents\DOC_CURSOS\c#\CAPITULO 10\ClassesMetodosAbstratos\ClassesMetodosAbstratos\bin\Debug\net6.0\ClassesMetodosAbstratos.exe
+C:\Users\User\Documents\DOC_CURSOS\c#\CAPITULO 10\ClassesMetodosAbstratos\ClassesMetodosAbstratos\bin\Debug\net6.0\ClassesMetodosAbstratos.deps.json
+C:\Users\User\Documents\DOC_CURSOS\c#\CAPITULO 10\ClassesMetodosAbstratos\ClassesMetodosAbstratos\bin\Debug\net6.0\ClassesMetodosAbstratos.runtimeconfig.json
+C:\Users\User\Documents\DOC_CURSOS\c#\CAPITULO 10\ClassesMetodosAbstratos\ClassesMetodosAbstratos\bin\Debug\net6.0\ClassesMetodosAbstratos.dll
+C:\Users\User\Documents\DOC_CURSOS\c#\CAPITULO 10\ClassesMetodosAbstratos\ClassesMetodosAbstratos\bin\Debug\net6.0\ClassesMetodosAbstratos.pdb
+C:\Users\User\Documents\DOC_CURSOS\c#\CAPITULO 10\ClassesMetodosAbstratos\ClassesMetodosAbstratos\obj\Debug\net6.0\ClassesMetodosAbstratos.csproj.AssemblyReference.cache
+C:\Users\User\Documents\DOC_CURSOS\c#\CAPITULO 10\ClassesMetodosAbstratos\ClassesMetodosAbstratos\obj\Debug\net6.0\ClassesMetodosAbstratos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\DOC_CURSOS\c#\CAPITULO 10\ClassesMetodosAbstratos\ClassesMetodosAbstratos\obj\Debug\net6.0\ClassesMetodosAbstratos.AssemblyInfoInputs.cache
+C:\Users\User\Documents\DOC_CURSOS\c#\CAPITULO 10\ClassesMetodosAbstratos\ClassesMetodosAbstratos\obj\Debug\net6.0\ClassesMetodosAbstratos.AssemblyInfo.cs
+C:\Users\User\Documents\DOC_CURSOS\c#\CAPITULO 10\ClassesMetodosAbstratos\ClassesMetodosAbstratos\obj\Debug\net6.0\ClassesMetodosAbstratos.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\DOC_CURSOS\c#\CAPITULO 10\ClassesMetodosAbstratos\ClassesMetodosAbstratos\obj\Debug\net6.0\ClassesMetodosAbstratos.dll
+C:\Users\User\Documents\DOC_CURSOS\c#\CAPITULO 10\ClassesMetodosAbstratos\ClassesMetodosAbstratos\obj\Debug\net6.0\refint\ClassesMetodosAbstratos.dll
+C:\Users\User\Documents\DOC_CURSOS\c#\CAPITULO 10\ClassesMetodosAbstratos\ClassesMetodosAbstratos\obj\Debug\net6.0\ClassesMetodosAbstratos.pdb
+C:\Users\User\Documents\DOC_CURSOS\c#\CAPITULO 10\ClassesMetodosAbstratos\ClassesMetodosAbstratos\obj\Debug\net6.0\ClassesMetodosAbstratos.genruntimeconfig.cache
+C:\Users\User\Documents\DOC_CURSOS\c#\CAPITULO 10\ClassesMetodosAbstratos\ClassesMetodosAbstratos\obj\Debug\net6.0\ref\ClassesMetodosAbstratos.dll
